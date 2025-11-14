@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! Soy Asier 
 
-<!--
-**AsierAndresCalvo/AsierAndresCalvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de INgeniería Informática y un apasionado de la Ciencia de Datos y el Machine Learning.
+Actualmente quiero construir mi portfolio, mientras continuo la universidad, con proyectos prácticos que demuestren mis habilidades.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías que estoy aprendiendo actualmente y en las que me quiero profesionalizar
+
+* **Lenguaje:** Python
+* **Análisis de Datos:** Pandas, Numpy
+* **Machine Learning:** Scikit-learn
+* **Visualización:** Matplotlib, Seaborn
+* **Herramientas:** Jupyter Notebooks, Git, Kaggle
+
+--
+
+## Proyectos en los que estoy trabajando
+Aquí ire poco a poco subiendo los proyectos en los que vaya trabajando.
+
+--
+## ¿Conectamos?
+* **LinkedIn:** www.linkedin.com/in/asier-andres-calvo
+* **Kaggle:** https://www.kaggle.com/asierandrescalvo
+
