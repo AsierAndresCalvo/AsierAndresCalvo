@@ -15,8 +15,12 @@ Actualmente quiero construir mi portfolio, mientras continuo la universidad, con
 
 --
 
-## Proyectos en los que estoy trabajando
-Aquí ire poco a poco subiendo los proyectos en los que vaya trabajando.
+## Mis proyectos
+
+### Predicción de supervivencia en el Titanic
+Desarrollado como reto de iniciación de Kaggle. Ha sido una forma de empezar a conocer como desarrollar proyectos de ML.
+-> https://github.com/AsierAndresCalvo/proyecto-titanic-ia.git <-
+
 
 --
 ## ¿Conectamos?
